@@ -18,8 +18,8 @@ Print the output.
 ## PROGRAM:
 ```python
 To write a python program for reading content from a CSV file.
-Developed by: Saileshkumar A
-Register Number: 22003843
+Developed by: Vijayaraj.V
+Register Number: 22001903
 import pandas as pd
 df = pd.read_csv('data1.csv')
 print(df.head(10))
